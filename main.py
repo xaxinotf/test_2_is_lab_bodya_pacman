@@ -13,7 +13,7 @@ MAZE_HEIGHT = 31
 screen_width = MAZE_WIDTH * TILE_SIZE
 screen_height = MAZE_HEIGHT * TILE_SIZE
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Pac-Man з груповим інтелектом та емержентною поведінкою привидів")
+pygame.display.set_caption("Pac-Man Cheban Bogdan TTP-42_lab-1")
 
 clock = pygame.time.Clock()
 
